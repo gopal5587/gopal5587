@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Gopal, a software engineer basedd in Sonipat India.
+I'm Gopal, a software engineer basedd in Delhi India.
 
 I design and build mobile apps and backend systems.
 
