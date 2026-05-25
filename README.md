@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm Gopal, a software engineer basedd in Delhi India.
+I'm Gopal, a software engineer based in Delhi India.
 
 I design and build mobile apps and backend systems.
 
-if an idea pops into my head, chances are I'll build it and ship it.
+If an idea pops into my head, chances are I'll build it and ship it.
 
-My main tech stack is flutter, Dart, Web Framework => Spring Boot, Databases => Mysql, MongoDB. My favourite tools are figma.
+My main tech stack is Flutter, Dart, Web Framework => Spring Boot, Databases => Mysql, MongoDB. My favourite tools are figma.
 
 I've got a bunch of pinned projects, but my favorite is the [POCKETPAL](https://github.com/gopal5587/POCKETPAL) & [Mini zomato app](https://github.com/gopal5587/Mini-Zomato-platform) 
 
